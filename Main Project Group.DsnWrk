@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\..\..\Public\Documents\Altium\Projects\ESP32\ESP32.PrjPcb
+[Project2]
+ProjectPath=ESP32_Dash_FCEM.PrjPcb
