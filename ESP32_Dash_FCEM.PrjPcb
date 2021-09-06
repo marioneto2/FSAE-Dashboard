@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\esp32-devkitc-v4_reference_design\ESP32-DevKitC-V4_Reference_Design\01_Schematic\Imported ESP32-DevKitC-V4_20180607A.PrjPcb\ESP32-DevKitC-V4_20180607A_Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NTXKFENJ
-
-[Document2]
 DocumentPath=ESP32_Dash_FCEM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIQMBFAB
 
-[Document3]
+[Document2]
 DocumentPath=ESP32_Dash_FCEM.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,14 +73,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSCILVKO
-
-[GeneratedDocument1]
-DocumentPath=..\esp32-devkitc-v4_reference_design\ESP32-DevKitC-V4_Reference_Design\01_Schematic\Imported ESP32-DevKitC-V4_20180607A.PrjPcb\Project Outputs for ESP32-DevKitC-V4_20180607A\Design Rule Check - ESP32_Reference.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\esp32-devkitc-v4_reference_design\ESP32-DevKitC-V4_Reference_Design\01_Schematic\Imported ESP32-DevKitC-V4_20180607A.PrjPcb\ESP32-DevKitC-V4_20180607A.LOG
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
